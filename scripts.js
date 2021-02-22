@@ -220,7 +220,7 @@ const Form = {
             // Verificar se todas as informacoes foram preenchidas 
             Form.ValidateFields()
             // formatar os dados para salvar
-            const transaction = Form.formatValues(transaction)
+            const transaction = Form.formatValues()
             // salvar
             Form.saveTransaction(transaction)
             //Apagar os dados do formulario 
