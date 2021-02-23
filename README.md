@@ -1,5 +1,5 @@
 # 📱💰 Conheça o WalletApp.
-
+> Aplicação desenvolvida no Bootcamp Maratona Discover da @Rocketseat
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoias.
 
 ## ☕ Tecnologias Usadas
