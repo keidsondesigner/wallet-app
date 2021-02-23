@@ -34,7 +34,7 @@ html {
 }
  /* Titles ================================================= */
 
- h2 {
+h2 {
      margin-top: 3.2rem;
      margin-bottom: 0.8rem;
      color: #363f5f;
@@ -205,6 +205,13 @@ table tbody tr:hover {
 table tbody td {
     background: #1b1c1e;
     padding: 1rem 2rem;
+    
+}
+
+table tbody td i {
+    cursor: pointer;
+    color: #e92929;
+    font-size: 1.2rem;
 }
 
 
@@ -219,6 +226,7 @@ td.income {
 td.expense {
     color: #e92929;
 }
+
 
 /* Modal ================================================= */
 
