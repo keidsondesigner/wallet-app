@@ -14,4 +14,4 @@
 acompanhar entradas e saídas de transações, adicionar ou excluir transações,
 por fim acompanhar seu saldo final das transações.
 
-https://keidsondesigner.github.io/maratona-discover-rocketseat/
+https://keidsondesigner.github.io/balanco-financeiro/
