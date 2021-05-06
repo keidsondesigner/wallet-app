@@ -1,3 +1,5 @@
+<a href="https://imgur.com/FmuDcpB"><img src="https://i.imgur.com/FmuDcpB.png" title="source: imgur.com" /></a>
+
 # 📱💰 Conheça o WalletApp.
 > Aplicação desenvolvida no Bootcamp Maratona Discover da @Rocketseat <br>
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoias.
